@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Kim Hyeonseo, AI-native product planning</title>
+  <desc id="desc">An editorial diagram connecting observe, define, make, and verify.</desc>
+  <rect width="1200" height="300" fill="#F5F4EE"/>
+
+  <g fill="none" stroke="#D5DBD4" stroke-width="1">
+    <path d="M48 40H1152V260H48Z"/>
+    <path d="M70 62H214V106H70Z"/>
+    <path d="M932 50H1128V98H932Z"/>
+    <path d="M966 68H1090V128H966Z"/>
+    <path d="M1006 102H1140V174H1006Z"/>
+    <path d="M936 160H1082V238H936Z"/>
+    <path d="M1060 146H1140V238H1060Z"/>
+    <path d="M914 118H1140"/>
+    <path d="M978 50V238"/>
+    <path d="M1032 50V238"/>
+    <path d="M1096 50V238"/>
+  </g>
+
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="76" y="70" fill="#087F65" font-size="13" font-weight="700" letter-spacing="2.4">AI-NATIVE PRODUCT PLANNING</text>
+    <text x="72" y="148" fill="#102A24" font-size="52" font-weight="700" letter-spacing="-1">KIM HYEONSEO</text>
+    <text x="74" y="181" fill="#52645E" font-size="17" letter-spacing="0.8">FROM REAL-WORLD FRICTION TO USEFUL PRODUCTS</text>
+
+    <g font-size="12" font-weight="700" letter-spacing="1.6">
+      <text x="76" y="240" fill="#102A24">OBSERVE</text>
+      <text x="270" y="240" fill="#102A24">DEFINE</text>
+      <text x="452" y="240" fill="#102A24">MAKE</text>
+      <text x="626" y="240" fill="#087F65">VERIFY</text>
+    </g>
+  </g>
+
+  <g fill="none" stroke="#AEBBB5" stroke-width="1.5">
+    <path d="M85 213H665"/>
+  </g>
+  <g fill="#F5F4EE" stroke="#102A24" stroke-width="2">
+    <circle cx="85" cy="213" r="5"/>
+    <circle cx="279" cy="213" r="5"/>
+    <rect x="461" y="208" width="10" height="10"/>
+  </g>
+  <circle cx="665" cy="213" r="6" fill="#50E3C2" stroke="#087F65" stroke-width="2"/>
+
+  <g fill="#087F65">
+    <circle cx="932" cy="50" r="3"/>
+    <circle cx="1096" cy="118" r="3"/>
+    <circle cx="978" cy="238" r="3"/>
+  </g>
+  <path d="M914 238L978 160L1032 174L1096 98L1140 118" fill="none" stroke="#50E3C2" stroke-width="2"/>
+</svg>
